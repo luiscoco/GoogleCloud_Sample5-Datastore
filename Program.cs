@@ -2,7 +2,7 @@
 using Google.Cloud.Datastore.V1;
 
 // Your Google Cloud Platform project ID
-string projectId = "focus-cache-387205";
+string projectId = "XXXXXXXXXXXXXX";
 
 // Instantiates a client
 DatastoreDb db = DatastoreDb.Create(projectId);
